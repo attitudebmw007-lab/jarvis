@@ -1,0 +1,18 @@
+{
+  "help": {
+    "keywords": ["help", "support", "assist"],
+    "response": "I can help you with voice commands, chat, task automation, and answering questions. What would you like to do?"
+  },
+  "about": {
+    "keywords": ["about", "who are you", "introduce"],
+    "response": "I am JARVIS, an AI assistant inspired by Iron Man's AI. I can help you with tasks, answer questions, and automate processes."
+  },
+  "status": {
+    "keywords": ["status", "how are you"],
+    "response": "All systems operational. Ready to assist."
+  },
+  "thank_you": {
+    "keywords": ["thank", "thanks", "appreciate"],
+    "response": "You're welcome! Happy to help."
+  }
+}
