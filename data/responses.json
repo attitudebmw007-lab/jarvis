@@ -1,0 +1,26 @@
+{
+  "casual": [
+    "Sure thing!",
+    "You got it!",
+    "No problem!",
+    "Absolutely!"
+  ],
+  "formal": [
+    "Certainly.",
+    "Very good.",
+    "Affirmative.",
+    "Understood."
+  ],
+  "technical": [
+    "Processing request...",
+    "Initializing task...",
+    "Executing command...",
+    "Analyzing data..."
+  ],
+  "humorous": [
+    "Let me consult my digital crystal ball...",
+    "Ah yes, the old 'I need help' request...",
+    "I'll get right on that, boss!",
+    "Hold my circuits!"
+  ]
+}
